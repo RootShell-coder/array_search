@@ -1,4 +1,3 @@
-
 function read(object) {
     var String = object.value.split('\n');
     var key = 0;
